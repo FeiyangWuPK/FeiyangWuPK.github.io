@@ -1,0 +1,31 @@
+@font-face{
+    font-family: "Apercu";
+    src: url(/assets/fonts/Apercu.ttf) format(truetype);
+}
+
+@font-face{
+    font-family: "Roboto-Regular";
+    src: url(/assets/fonts/Roboto-Regular.ttf) format(truetype);
+}
+
+@font-face{
+    font-family: "Roboto-Medium";
+    src: url(/assets/fonts/Roboto-Medium.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: "Big Calson";
+    src: url(/assets/fonts/BigCaslon.ttf) format(truetype);
+}
+
+.p2 {
+    font-family: "Big Calson";
+}
+
+.p3 {
+    font-family: "Apercu";
+}
+.p3_bold {
+    font-family: "Apercu";
+    font-weight: bold;
+}
